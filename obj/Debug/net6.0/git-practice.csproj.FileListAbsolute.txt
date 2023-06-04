@@ -1,0 +1,15 @@
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\bin\Debug\net6.0\git-practice.exe
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\bin\Debug\net6.0\git-practice.deps.json
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\bin\Debug\net6.0\git-practice.runtimeconfig.json
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\bin\Debug\net6.0\git-practice.dll
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\bin\Debug\net6.0\git-practice.pdb
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\obj\Debug\net6.0\git-practice.csproj.AssemblyReference.cache
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\obj\Debug\net6.0\git-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\obj\Debug\net6.0\git-practice.AssemblyInfoInputs.cache
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\obj\Debug\net6.0\git-practice.AssemblyInfo.cs
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\obj\Debug\net6.0\git-practice.csproj.CoreCompileInputs.cache
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\obj\Debug\net6.0\git-practice.dll
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\obj\Debug\net6.0\refint\git-practice.dll
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\obj\Debug\net6.0\git-practice.pdb
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\obj\Debug\net6.0\git-practice.genruntimeconfig.cache
+C:\Users\ICT-LAP2\source\repos\git-practice\git-practice\obj\Debug\net6.0\ref\git-practice.dll
